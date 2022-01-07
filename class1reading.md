@@ -28,3 +28,8 @@
 * You can also link to other websites by using this format: `(Name you want to show up)[URL of website}`
 * If I enter `[Code Fellows Course Calendar](https://www.codefellows.org/course-calendar/)`, the output will be:
 > [Code Fellows Course Calendar](https://www.codefellows.org/course-calendar/)
+
+## Tasks
+* If you are trying to display a to-do list, you can start each line with `[ ]`
+- [ ] This is an unchecked box. It is empty between the brackets
+- [x] This is a checked box. There is an X between the brackets.
