@@ -14,6 +14,4 @@
 1. By numbering lines, you can create lists of text
 2. This would be helpful for listing steps
 3. Even if you don't list the numbers in order, they will show up in numberical order.
-        1. If you want to indent part of a list, click tab twice before the line
-        2. This way you can create substeps
-4. This is neat
+> You can also place a blockquote underneath an item to call more attention to it
