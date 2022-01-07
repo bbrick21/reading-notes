@@ -2,6 +2,7 @@
 
 ## Headings:
 * Headings are the most basic function of what I have read about. Headings come in six different sizes, and correspond to the number of # symbols that are placed at the beginning of the line (a single # means heading 1, the largest. Six # symbols mean heading 6, the smallest heading). When creating headings, it is important to make sure there is a space in between the # symbol and the text.
+* Underneath headings, you will write paragraphs. Leave a line in between the end of your paragraph and next heading to create a space in between paragraphs. 
 
 ## Make text look cool
 * If you want to make your text more appealing, there are ways you can style text. 
@@ -33,3 +34,6 @@
 * If you are trying to display a to-do list, you can start each line with `- [ ]`
 - [ ] This is an unchecked box. It is empty between the brackets
 - [x] This is a checked box. There is an X between the brackets.
+
+# Summary
+* It looks like there is *a lot* of things you can do with **Markdown**. I am not entirely sure yet when this would be used, but I am willing to bet I will be using this quite a lot.  Maybe in the future I can learn even cooler things like adding in pictures.
