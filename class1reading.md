@@ -13,4 +13,4 @@
 ## Lists
 1. By numbering lines, you can create lists of text
 2. This would be helpful for listing steps
- * It appears that you can also indent a bullet point by clicking tab in front of it
+ 1. It appears that you can also indent a bullet point by clicking tab in front of it
