@@ -27,4 +27,4 @@
 * This way, the code inside the lines `**will be denoted as code**` - as this would be bold text without the format
 * You can also link to other websites by using this format: `(Name you want to show up)[URL of website}`
 * If I enter `(Code Fellows Course Calendar)[https://www.codefellows.org/course-calendar/]`
-> The output will look like (Code Fellows Course Calendar)[https://www.codefellows.org/course-calendar/]
+> The output will look like (Code Fellows Course Calendar) [https://www.codefellows.org/course-calendar/]
