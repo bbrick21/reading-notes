@@ -13,4 +13,4 @@ A good way to think about this cycle is riding a bike. When you are born, you di
 
 2. Remind yourself that no matter how difficult a skill might be to learn, it can be learned. Any person who has been successful in anything was not born knowing how to do it. For example, Lionel Messi was probably totally unaware of the game of soccer for the first year or two of his life.
 3. Last, it would help to place some sort of visual in your workspace to serve as a reminder that anything can be learned. Here would be an example of something that could sit on your wall in the form of a poster, or as a phone background: 
-![Growth Mindset Picture](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
+![Growth Mindset Picture](https://sites.dartmouth.edu/learning/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
