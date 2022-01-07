@@ -15,4 +15,13 @@
 2. This would be helpful for listing steps
 3. Even if you don't list the numbers in order, they will show up in numberical order.
 > You can also place a blockquote underneath an item to call more attention to it
->> This is done by placing the ">" character at the start of the line, or >> for the second line. 
+>> This is done by placing the ">" character at the start of the line, or >> for the second line.
+4. Then your list can continue
+
+## Escaping Characters
+* Starting a line with an asterisk will create a bullet like this
+\* But if I  start this line with a backslash I can use the character as normal 
+
+## Other things
+* You can also quote code itself by enclosing it with backticks: ` 
+* This way, the code inside the lines `**will not be formatted**` - as this would be bold text without the format
