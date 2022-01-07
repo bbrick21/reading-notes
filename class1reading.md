@@ -13,6 +13,9 @@
 ## Lists
 1. By numbering lines, you can create lists of text
 2. This would be helpful for listing steps
- 3. It appears that you can also indent a bullet point by clicking tab in front of it
-3. Did the indent work?
-4. I guess we will see
+3. Even if you don't list the numbers in order, they will show up in numberical order.
+
+ 1. Will this work to indent? 
+ 2. We will see
+
+4. fdsfad
