@@ -1,3 +1,12 @@
+# Summary of Text Editor learnings
+* Text editors are found on most computers. Common examples are Word and Google Docs. While some text editors are designed for sentence writing, others are designed for writing code.
+* Code text editors have a few unique features that make them ideal for coding.
+* Code Completion - this will help you complete lines of code based on what has already been typed in.
+* Syntax highlighting - this highlights pieces of code you have typed in, which can make it easier to identify pieces of code. 
+* Shorthand code - some text editors offer ways of writing code faster via shorthand languages.
+* Windows by default comes with Notepad, while Mac comes with Text Edit. 
+* There are many third party code editors that are free.
+
 # Summary of learnings about using a terminal
 -----
 ## What is a terminal? 
