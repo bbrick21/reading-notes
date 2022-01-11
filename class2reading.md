@@ -13,7 +13,8 @@ A terminal is an interface to your computer that is controlled via text, rather 
 ## Paths
 When referring to a specific file or directory, you are actually referring to the path it takes to get there. 
 * File systems are hierarchical structures. At the core is a **root directory** which is shown through a single forward slash ``/``.
-* 
+* An absolute path is a path displayed by the terminal that will be the same no matter which directory you are currenty in, such as ``/home/bryce/documents``. This means that running ``ls /home/bryce/documents`` will display the same results regardles of current location.
+* A relative path is one that is dependent on current location. For example, running the command ``ls Documents`` will 
 
 ## Commands
 There are basic commands that serve as a foundation of using the terminal:
