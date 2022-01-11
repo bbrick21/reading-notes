@@ -25,8 +25,8 @@ There are basic commands that serve as a foundation of using the terminal:
 * ``pwd`` is a command that requires no argument. This will display the location you are accessing within the computer.
 * ``ls`` also requires no argument. This command will display *what is in* the location you are accessing. 
 > There are also some arguments we can use within the ls command.
-> ``ls -1`` is a single command with a space between the "ls" and "-1". This will display a *long listing* which includes information like normal file or directory, owner of the file, and group the file belongs to. 
-> ``ls /etc`` is a line with both a command and an argument. The argument tells the computer to list the contents of a directory other than the current location, in this case ``/etc``.
+>> ``ls -1`` is a single command with a space between the "ls" and "-1". This will display a *long listing* which includes information like normal file or directory, owner of the file, and group the file belongs to. 
+>>> ``ls /etc`` is a line with both a command and an argument. The argument tells the computer to list the contents of a directory other than the current location, in this case ``/etc``.
 * ``cd [location]`` will change directories. If followed up with an argument, it will navigate to that directory. If no argument is included, it will default to the home directory.
 * ``Tab`` will autocomplete command lines when there is only one possibility to finish the command. 
 
