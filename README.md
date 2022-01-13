@@ -22,3 +22,8 @@ My name is Bryce, and I am in my first course at Code Fellows to learn code. I w
 [My GitHub Profile](https://github.com/bbrick21)
 
 **Thanks for reading!**
+
+### Table of Contents
+* [Class 1 Reading] (class1reading.md)
+* [Class 2 Reading] (class2reading.md)
+* [Class 3 Reading] (class2reading.md)
