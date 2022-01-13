@@ -27,3 +27,4 @@ My name is Bryce, and I am in my first course at Code Fellows to learn code. I w
 * [Class 1 Reading](class1reading.md)
 * [Class 2 Reading](class2reading.md)
 * [Class 3 Reading](class3reading.md)
+* [Class 4 Reading](Class4reading.md)
