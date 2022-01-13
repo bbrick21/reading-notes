@@ -45,4 +45,4 @@ There are basic commands that serve as a foundation of using the terminal:
 * If there is a space in the name you are trying to access, enclose the name using ``' '``. For example ``'My documents'.
 
 
-[<===Back](class1reading.md)
+[<===Back](README.md)
