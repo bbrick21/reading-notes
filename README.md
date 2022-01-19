@@ -10,4 +10,6 @@ My name is Bryce, and I am in my first course at Code Fellows to learn code. I w
 * [Markdown](class1reading.md)
 * [Terminals and Text Editors](class2reading.md)
 * [Git](class3reading.md)
-* [Class 4 Reading](Class4reading.md)
+* [HTML](Class4reading.md)
+* [CSS](class5reading.md)
+* [JavaScript](class6reading.md)
